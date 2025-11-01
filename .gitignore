@@ -20,6 +20,9 @@
 # production
 /build
 
+# playwright-mcp screenshots
+.playwright-mcp/
+
 # misc
 .DS_Store
 *.pem
